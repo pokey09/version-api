@@ -1,4 +1,4 @@
 {
-  "NewestVersion": "1.0.0",
-  "Changes": "Initial Release"
+  "NewestVersion": "1.0.1",
+  "Changes": "Added New Sweep Config (Controls Speed and Max Angle) Fix spawning issues, Resetting back to Home after sweep" 
 }
